@@ -9,6 +9,12 @@ const campgrounds = [
     {name: "Somewhere Garden", image: "http://photosforclass.com/download/321487195"}
     ,{name: "Otherplace Hill", image: "http://photosforclass.com/download/3823437635"}
     ,{name: "Mountain Peak's Rest", image: "http://photosforclass.com/download/1430198323"}
+    ,{name: "Otherplace Hill", image: "http://photosforclass.com/download/3823437635"}
+    ,{name: "Mountain Peak's Rest", image: "http://photosforclass.com/download/1430198323"}
+    ,{name: "Otherplace Hill", image: "http://photosforclass.com/download/3823437635"}
+    ,{name: "Mountain Peak's Rest", image: "http://photosforclass.com/download/1430198323"}
+    ,{name: "Otherplace Hill", image: "http://photosforclass.com/download/3823437635"}
+    ,{name: "Mountain Peak's Rest", image: "http://photosforclass.com/download/1430198323"}
 ]
 
 app.get("/", (req, res) => {
